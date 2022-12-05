@@ -48,5 +48,7 @@ c:Use otu_labels as the hovertext for the chart.
 
  ![image](https://user-images.githubusercontent.com/111711194/205524411-f0c4bc36-5644-4712-a87e-e636ce8bfb24.png)
 
+References
 
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
