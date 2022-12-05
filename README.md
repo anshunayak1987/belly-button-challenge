@@ -42,4 +42,11 @@ c:Use otu_labels as the hovertext for the chart.
 
 ![image](https://user-images.githubusercontent.com/111711194/205523962-0b01e709-af78-45be-8e34-b073ae38d139.png)
 
+7 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits
+
+8 Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ Links to an external site.to plot the weekly washing frequency of the individual.
+
+ ![image](https://user-images.githubusercontent.com/111711194/205524411-f0c4bc36-5644-4712-a87e-e636ce8bfb24.png)
+
+
 
